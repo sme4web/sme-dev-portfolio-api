@@ -85,6 +85,13 @@ const portfolio_data = [
                     description: "SME XO Game is a simple game where you play with a friend. One player takes X and the other O. The first player to align 3 Xs or Os in a row (vertically, horizontally, or diagonally) wins.",
                     website_link: "https://sme4-xo-game.netlify.app",
                     programming_languages: ["HTML", "CSS", "JavaScript"],
+                },
+                {
+                    logo: "https://sme-todo-list-app.netlify.app/sme todo list app logo.png",
+                    website_name: "SME | To-Do List App",
+                    description: "SME To-Do List App is a website in which you can add your tasks in it and you can add some tasks that appears on a certain day (sutarday , sunday,....) and you can delete and update tasks and check any task as completed.",
+                    website_link: "https://sme-todo-list-app.netlify.app",
+                    programming_languages: ["ReactJS", "CSS"],
                 }
         ],
         social_links: {
